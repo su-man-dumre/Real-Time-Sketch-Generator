@@ -33,7 +33,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/su-man-dumre/sketch-generator.git
+git clone  https://github.com/su-man-dumre/Real-Time-Sketch-Generator.git
 cd sketch-generator
 Create a virtual environment (optional but recommended):
 
